@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/andreabglez/Examen2-EquipoChimichanga#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
